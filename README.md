@@ -3,3 +3,4 @@ You need to connect 7 LED to the ESP. Use the GPIO 2,3,4,5,6,8,9 for that. Conne
 The sketch has an error in line 98, which causes the random-function to generate numbers from 0 to 6.
 This leads to an further error in line 75, which shows a "5" pattern on the dice. It is obfuscated as an errormessage "Do a x, if default"
 the students had to find out, whats going wron, so it is not a mistake, but the learninggoal.
+If you have a 3d-printer, you can print a case, which is part of this repo.
